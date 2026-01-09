@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # In Python,
 *args is a special syntax used in a function definition to pass a variable number of non-keyword (positional) arguments to that function. The arguments are collected into a tuple inside the function. 
 ## Key Concepts
@@ -38,5 +37,4 @@
 ##  The count() method in Python is used to determine the number of occurrences of a specific element within a sequence (such as a string, list, or tuple). 
 
 # Method replace
->>>>>>> 138398b17fd01048f7e1536630f665fd9d82db81
 ##  In Python, the primary method for replacing a substring within a string is the built-in .replace() method. It returns a new string with the replacements applied, as the original string remains unchanged due to string immutability.

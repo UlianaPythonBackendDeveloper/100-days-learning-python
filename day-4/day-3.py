@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # How print on screen
 print(5 <= 5)
 
@@ -58,7 +57,7 @@ def string_or_not(value):
 def guess_number(number):
     return 'You win!' if number == 45 else 'Try again!'
 
-=======
+
 # How print on screen
 print(5 <= 5)
 
@@ -118,5 +117,4 @@ def string_or_not(value):
 def guess_number(number):
     return 'You win!' if number == 45 else 'Try again!'
 
->>>>>>> 138398b17fd01048f7e1536630f665fd9d82db81
 print(guess_number(number=25))
